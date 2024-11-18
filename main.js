@@ -8,7 +8,7 @@ function myMenuFunction(){
     menuBtn.className = "nav-menu";
   }
 }
-
+ 
 /* ----- ADD SHADOW ON NAVIGATION BAR WHILE SCROLLING ----- */
 window.onscroll = function() {headerShadow()};
 
